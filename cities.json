@@ -1,0 +1,206 @@
+[
+  {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.1767,
+    "longitude": 78.0081
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.0225,
+    "longitude": 72.5714
+  },
+  {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "latitude": 25.4358,
+    "longitude": 81.8463
+  },
+  {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "latitude": 31.634,
+    "longitude": 74.8723
+  },
+  {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "latitude": 23.2599,
+    "longitude": 77.4126
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.0827,
+    "longitude": 80.2707
+  },
+  {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "latitude": 11.0168,
+    "longitude": 76.9558
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "latitude": 28.7041,
+    "longitude": 77.1025
+  },
+  {
+    "city": "Guwahati",
+    "state": "Assam",
+    "latitude": 26.1445,
+    "longitude": 91.7362
+  },
+  {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "latitude": 26.2183,
+    "longitude": 78.1828
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.385,
+    "longitude": 78.4867
+  },
+  {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "latitude": 22.7196,
+    "longitude": 75.8577
+  },
+  {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "latitude": 23.1815,
+    "longitude": 79.9864
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.9124,
+    "longitude": 75.7873
+  },
+  {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "latitude": 26.2389,
+    "longitude": 73.0243
+  },
+  {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.4499,
+    "longitude": 80.3319
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.5726,
+    "longitude": 88.3639
+  },
+  {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.8467,
+    "longitude": 80.9462
+  },
+  {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "latitude": 30.9,
+    "longitude": 75.8573
+  },
+  {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "latitude": 9.9252,
+    "longitude": 78.1198
+  },
+  {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "latitude": 28.9845,
+    "longitude": 77.7064
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "latitude": 19.076,
+    "longitude": 72.8777
+  },
+  {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "latitude": 21.1458,
+    "longitude": 79.0882
+  },
+  {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "latitude": 19.9975,
+    "longitude": 73.7898
+  },
+  {
+    "city": "Patna",
+    "state": "Bihar",
+    "latitude": 25.5941,
+    "longitude": 85.1376
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.5204,
+    "longitude": 73.8567
+  },
+  {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "latitude": 22.3039,
+    "longitude": 70.8022
+  },
+  {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "latitude": 23.3441,
+    "longitude": 85.3096
+  },
+  {
+    "city": "Surat",
+    "state": "Gujarat",
+    "latitude": 21.1702,
+    "longitude": 72.8311
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "latitude": 8.5241,
+    "longitude": 76.9366
+  },
+  {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "latitude": 22.3072,
+    "longitude": 73.1812
+  },
+  {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "latitude": 25.3176,
+    "longitude": 82.9739
+  },
+  {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "latitude": 17.6868,
+    "longitude": 83.2185
+  }
+]
