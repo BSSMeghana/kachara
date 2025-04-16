@@ -1,0 +1,107 @@
+news-container {
+    padding: 20px;
+    background: #f9f9f9;
+    position: relative;
+  }
+  
+  .news-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+  
+  .news-scroll-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .news-scroll {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 20px;
+    padding: 10px;
+    scroll-behavior: smooth;
+    scrollbar-width: none; /* Firefox */
+  }
+  
+  .news-scroll::-webkit-scrollbar {
+    display: none; /* Chrome, Safari */
+  }
+  
+  .news-card {
+    flex: 0 0 auto;
+    width: 300px;
+    background: white;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    scroll-snap-align: start;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .news-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .news-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .news-card h3 {
+    margin: 10px 0 6px;
+    font-size: 1.1em;
+    color: #2c3e50;
+  }
+  
+  .news-card p {
+    font-size: 0.95em;
+    color: #555;
+  }
+  
+  .news-card a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+  
+  .scroll-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #2c3e50;
+    color: white;
+    border: none;
+    font-size: 1.5rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 2;
+    transition: opacity 0.3s ease;
+  }
+  
+  .scroll-button.show {
+    opacity: 0.8;
+  }
+  
+  .scroll-button.left {
+    left: -10px;
+  }
+  
+  .scroll-button.right {
+    right: -10px;
+  }
+  
+  .scroll-button:hover {
+    opacity: 1;
+    background: #1a242f;
+  }
